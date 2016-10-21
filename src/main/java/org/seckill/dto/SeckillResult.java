@@ -1,8 +1,5 @@
 package org.seckill.dto;
 
-/**
- * Created by TS on 2016/5/22.
- */
 
 //所有的ajax请求返回类型，封装json结果
 public class SeckillResult<T> {

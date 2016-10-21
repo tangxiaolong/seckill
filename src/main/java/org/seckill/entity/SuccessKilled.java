@@ -2,9 +2,6 @@ package org.seckill.entity;
 
 import java.util.Date;
 
-/**
- * Created by TS on 2016/5/11.
- */
 public class SuccessKilled {
     private long seckillId;
     private long userPhone;

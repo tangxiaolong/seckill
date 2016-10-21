@@ -2,7 +2,6 @@ package org.seckill.dto;
 
 /**
  * 暴露秒杀地址DTO
- * Created by TS on 2016/5/17.
  */
 public class Exposer {
     //是否开启秒杀

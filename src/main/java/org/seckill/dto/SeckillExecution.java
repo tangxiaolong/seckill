@@ -3,9 +3,7 @@ package org.seckill.dto;
 import org.seckill.entity.SuccessKilled;
 import org.seckill.enums.SeckillStatEnum;
 
-/**
- * Created by TS on 2016/5/20.
- */
+
 public class SeckillExecution {
     private long seckillId;
     private int state;
